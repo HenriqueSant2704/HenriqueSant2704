@@ -1,4 +1,9 @@
-### Hi there 👋
+## Miguel Santana 🤵🏼
+
+## óla, bem vindo ao meu GITHub ✌
+
+- 💥 Eu estou atualmente estudando programação
+- 💻 Atualmente estou estudando, HTML, CSS, Javaescript, NodeJS, SQL e GIT
 
 <!--
 **HenriqueSant2704/HenriqueSant2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
