@@ -1,0 +1,8 @@
+.fundo {
+    background-image: url('img/fundo7.avif'); 
+    object-fit: cover;
+    background-size: cover;       
+    background-position: center; 
+    height: 700px; 
+}
+

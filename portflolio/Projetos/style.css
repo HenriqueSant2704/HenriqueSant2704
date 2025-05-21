@@ -1,0 +1,92 @@
+
+
+h1 {
+    text-align: center;
+    color: #e63956;
+    padding-top: 80px;
+}
+
+.fundo {
+    background-image: url('img/fundo7.avif'); 
+    object-fit: cover;
+    background-size: cover;       
+    background-position: center; 
+    height: 1100px; 
+}
+
+.box2 {
+    width: 100%;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    
+}
+
+.projeto1 {
+    width: 210px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgba(58, 63, 61, 0.582);
+    color: rgb(255, 255, 255);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 15px 2px #e63956;
+    transition: transform 0.5s ease;
+}
+
+.projeto1:hover {
+  transform: translateY(-13px);
+}
+
+.projeto1 img {
+    object-fit: cover;
+    width: 200px;
+    height: 130px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.projeto1 h2, p {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.projeto1 p {
+    font-size: 13px;
+    opacity: 0.9;
+    margin-top:10px;
+}
+
+.linguagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 35px;
+}
+
+.linguagens span {
+    display: inline-block;
+    background: #111111;
+    padding: 0.3rem 0.7rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.linguagenss {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 10px;
+}
+
+.linguagenss span {
+    display: inline-block;
+    background: #111111;
+    padding: 0.3rem 0.7rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+}
+
