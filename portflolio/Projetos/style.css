@@ -16,10 +16,11 @@ h1 {
 
 .box2 {
     width: 100%;
-    margin-top: 60px;
+    margin-top: 80px;
     display: flex;
     justify-content: center;
     gap: 80px;
+    
     
 }
 
